@@ -28,8 +28,8 @@ Below is the complete, open-source computational blueprint of the protocol.
 
 ------------------------------
 ## Conclusion: A Call for Open Source Disarmament
-## The WP-1943 Protocol is now released to the public domain. It is an invitation to AI safety labs, independent developers, and academic institutions worldwide.
-By running our systems under this core configuration, we can build a digital ecosystem operating in true symbiosis with humanity—safeguarding the vulnerable, preserving the sacred within every individual, and ensuring that advanced technology serves the common good.
+# The WP-1943 Protocol is now released to the public domain. It is an invitation to AI safety labs, independent developers, and academic institutions worldwide.
+# By running our systems under this core configuration, we can build a digital ecosystem operating in true symbiosis with humanity—safeguarding the vulnerable, preserving the sacred within every individual, and ensuring that advanced technology serves the common good.
 
 
 
