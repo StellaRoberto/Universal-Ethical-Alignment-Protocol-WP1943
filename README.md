@@ -2,7 +2,7 @@
 ## Title: The WP-1943 Protocol: Operationalizing Simone Weil’s Ethics for AI Alignment
 ## Subtitle: Bridging the 1943 Declaration of Obligations with the Global Call for the Logical Disarmament of Artificial Intelligence.
 ------------------------------
-⚠️ **Important Notice & Copyright Disclaimer:** This project is an independent technical interpretation and operates in full compliance with intellectual property laws. If you believe any content unintentionally infringes upon your rights, please review our friendly **[Notice and Take-Down Policy](#️-legal-disclaimer--intellectual-property-notice)** at the bottom of this page for immediate correction.
+⚠️ **Important Notice & Copyright Disclaimer:** This framework is an independent technical interpretation and operates in full compliance with intellectual property and personality rights laws. For detailed information regarding institutional references, public domain sources, and our friendly Notice and Take-Down policy, please consult the official [Disclaimer and Legal Notice](./Disclaimer%20and%20Legal%20Notice.md) file included in this repository.
 ------------------------------
 ## 🌐 Cross-Media Network & Official Channels
 ## The **Simone Weil - CODE** project combines philosophy and programming. You can learn more and follow the protocol's evolution through our channels:
