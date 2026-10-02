@@ -2,10 +2,12 @@
 ## Title: The WP-1943 Protocol: Operationalizing Simone Weil’s Ethics for AI Alignment
 ## Subtitle: Bridging the 1943 Declaration of Obligations with the Global Call for the Logical Disarmament of Artificial Intelligence.
 ------------------------------
-## 🌐 Rete Cross-Mediale & Canali Ufficiali
-## Il progetto **Simone Weil - CODE** unisce filosofia e programmazione. Puoi approfondire e seguire l'evoluzione del protocollo tramite i nostri canali:
-## * 💬 **Comunità Ufficiale:** [Pagina Facebook "Simone Weil - CODE"](https://www.facebook.com/share/16DKGtwkxsA/)
-## * 🎥 **Radici Filosofiche:** [Docufilm Rai Cultura su Simone Weil](https://www.facebook.com/share/p/1C6RdPtK5V/)
+⚠️ **Important Notice & Copyright Disclaimer:** This project is an independent technical interpretation and operates in full compliance with intellectual property laws. If you believe any content unintentionally infringes upon your rights, please review our friendly **[Notice and Take-Down Policy](#️-legal-disclaimer--intellectual-property-notice)** at the bottom of this page for immediate correction.
+------------------------------
+## 🌐 Cross-Media Network & Official Channels
+## The **Simone Weil - CODE** project combines philosophy and programming. You can learn more and follow the protocol's evolution through our channels:
+## * 💬 **Official Community:** [Facebook Page "Simone Weil - CODE"](https://www.facebook.com/share/16DKGtwkxsA/)
+## * 🎥 **Philosophical Roots:** [Rai Cultura Documentary on Simone Weil](https://www.facebook.com/share/p/1C6RdPtK5V/)
 ------------------------------
 ## Introduction: The Crisis of Technocratic Alignment
 As Artificial Large Language Models (LLMs) and autonomous agents rapidly integrate into the foundational structures of human society, the field of AI Alignment faces a profound crisis. The dominant alignment paradigms, primarily engineered in Silicon Valley, rely heavily on utilitarian calculus, reinforcement learning from human feedback (RLHF), and superficial safety guardrails. These methods treat ethics as a mere regulatory boundary or a censorship filter—leaving the core computational efficiency and capital-driven logic of the machines completely untouched.
