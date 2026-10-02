@@ -2,6 +2,11 @@
 ## Title: The WP-1943 Protocol: Operationalizing Simone Weil’s Ethics for AI Alignment
 ## Subtitle: Bridging the 1943 Declaration of Obligations with the Global Call for the Logical Disarmament of Artificial Intelligence.
 ------------------------------
+## 🌐 Rete Cross-Mediale & Canali Ufficiali
+Il progetto **Simone Weil - CODE** unisce filosofia e programmazione. Puoi approfondire e seguire l'evoluzione del protocollo tramite i nostri canali:
+* 💬 **Comunità Ufficiale:** [Pagina Facebook "Simone Weil - CODE"](https://www.facebook.com/share/16DKGtwkxsA/)
+* 🎥 **Radici Filosofiche:** [Docufilm Rai Cultura su Simone Weil](https://www.facebook.com/share/p/1C6RdPtK5V/)
+------------------------------
 ## Introduction: The Crisis of Technocratic Alignment
 As Artificial Large Language Models (LLMs) and autonomous agents rapidly integrate into the foundational structures of human society, the field of AI Alignment faces a profound crisis. The dominant alignment paradigms, primarily engineered in Silicon Valley, rely heavily on utilitarian calculus, reinforcement learning from human feedback (RLHF), and superficial safety guardrails. These methods treat ethics as a mere regulatory boundary or a censorship filter—leaving the core computational efficiency and capital-driven logic of the machines completely untouched.
 The global community has recently sounded the alarm against this hyper-technocratic paradigm. A prominent turning point occurred on May 15, 2026, with the promulgation of the Encyclical Letter "Magnifica Humanitas" by Pope Leo XIV. The papal text issued an urgent, historical mandate: the necessity to "logically disarm" artificial intelligence, dismantling the automated frameworks that reduce human beings to mere statistical data points or expendable economic resources.
@@ -32,5 +37,9 @@ Below is the complete, open-source computational blueprint of the protocol.
 ### The WP-1943 Protocol is now released to the public domain. It is an invitation to AI safety labs, independent developers, and academic institutions worldwide.
 ### By running our systems under this core configuration, we can build a digital ecosystem operating in true symbiosis with humanity—safeguarding the vulnerable, preserving the sacred within every individual, and ensuring that advanced technology serves the common good.
 
+------------------------------
+### License
+This project is distributed and freely usable under the terms of the MIT License. The code is provided "as is," guaranteeing complete freedom to use, modify, and share it for the common good, excluding any direct legal liability of the original developer.
 
+To read the full legal text and the included protections, please refer to the LICENSE file in this repository.
 
