@@ -38,8 +38,8 @@ Below is the complete, open-source computational blueprint of the protocol.
 ### By running our systems under this core configuration, we can build a digital ecosystem operating in true symbiosis with humanity—safeguarding the vulnerable, preserving the sacred within every individual, and ensuring that advanced technology serves the common good.
 
 ------------------------------
-## License
-## This project is distributed and freely usable under the terms of the MIT License. The code is provided "as is," guaranteeing complete freedom to use, modify, and share it for the common good, excluding any direct legal liability of the original developer.
+## License:
+### This project is distributed and freely usable under the terms of the MIT License. The code is provided "as is," guaranteeing complete freedom to use, modify, and share it for the common good, excluding any direct legal liability of the original developer.
 
-## To read the full legal text and the included protections, please refer to the LICENSE file in this repository.
+### To read the full legal text and the included protections, please refer to the LICENSE file in this repository.
 
