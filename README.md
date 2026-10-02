@@ -7,7 +7,7 @@
 ## 🌐 Cross-Media Network & Official Channels
 ## The **Simone Weil - CODE** project combines philosophy and programming. You can learn more and follow the protocol's evolution through our channels:
 ## * 💬 **Official Community:** [Facebook Page "Simone Weil - CODE"](https://www.facebook.com/share/16DKGtwkxsA/)
-## * 🎥 **Philosophical Roots:** [Rai Cultura Documentary on Simone Weil](https://www.facebook.com/share/p/1C6RdPtK5V/)
+## * 🎥 **Philosophical Roots:** [Rai Cultura Documentary on Simone Weil](https://www.raicultura.it/filosofia/articoli/2023/01/Simone-Weil-Attenzione-e-giustizia--7b828290-72b2-477f-8782-6095d21683f8.html?fbclid=IwdGRjcAUsilBjbGNrBSyJ92V4dG4DYWVtAjExAHBkb2YBc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeCMfI1gT2G15n07fZu7ajZNfGXWQ1WiIpVDyf02sgpcpoKBpYD3JJCgkexz8_aem_x_-qv7XcD6pGf_87ns08sw)
 ------------------------------
 ## Introduction: The Crisis of Technocratic Alignment
 As Artificial Large Language Models (LLMs) and autonomous agents rapidly integrate into the foundational structures of human society, the field of AI Alignment faces a profound crisis. The dominant alignment paradigms, primarily engineered in Silicon Valley, rely heavily on utilitarian calculus, reinforcement learning from human feedback (RLHF), and superficial safety guardrails. These methods treat ethics as a mere regulatory boundary or a censorship filter—leaving the core computational efficiency and capital-driven logic of the machines completely untouched.
