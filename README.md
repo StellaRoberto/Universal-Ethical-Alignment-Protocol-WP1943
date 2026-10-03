@@ -28,7 +28,7 @@ Below is the complete, open-source computational blueprint of the protocol.
 # 📄 METADATA & COPYRIGHT NOTICE
 # Identifier: WP-1943-ORIGINAL
 # Author/Creator: Roberto Stella (Simone Weil - CODE)
-# Official Repository: https://github.com
+# Official Repository: https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943 
 # Copyright: Copyright (c) 2026 Roberto Stella. All Rights Reserved.
 # License: Distributed under the terms of the MIT License (Open-Source).
 # Terms: Free to use, modify, and distribute provided this notice remains intact.
