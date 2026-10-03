@@ -37,4 +37,4 @@ Below is the complete, open-source computational blueprint of the protocol.
 ### The WP-1943 Protocol is released to the international community as public open-source material, inviting safety labs and developers worldwide to ensure technology serves the common good.
 ------------------------------
 ### License: This project is distributed and freely usable under the terms of the MIT License. The code is provided "as is," guaranteeing complete freedom to use, modify, and share it for the common good, excluding any direct legal liability of the original developer.
-### To read the full legal text and the included protections, please refer to the LICENSE file in this repository.Please consult the official [LICENSE](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/1) file included in this repository.
+### To read the full legal text and the included protections, please refer to the LICENSE file in this repository [LICENSE](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/1) file included in this repository.
