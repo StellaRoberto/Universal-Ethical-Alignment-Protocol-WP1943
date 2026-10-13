@@ -65,6 +65,8 @@ Here are the most common questions regarding the architecture, deployment, and p
 
 ### Q6: I am not a developer or an academic. How can I contribute to "Simone Weil - CODE"?
 **A:** Everyone has a role in the scale of responsibility. You can contribute by testing the protocol on public LLMs and reporting edge cases, translating the documentation, or simply helping us spread the word on social media to build momentum for human-centric algorithmic ethics.
+[CONTRIBUTING](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/2)
+
 [FAQ](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/5)
 --------------------------------------------------
 ### Conclusion: A Call for Open Source Disarmament
