@@ -1,8 +1,7 @@
 # Simone Weil - CODE
 ## Title: The WP-1943 Protocol: Operationalizing Simone Weil’s Ethics for AI Alignment
 ## Subtitle: Bridging the 1943 Declaration of Obligations with the Global Call for the Logical Disarmament of Artificial Intelligence.
---------------------------------------------------
-⚠️ **Important Notice & Copyright Disclaimer:** This framework is an independent technical interpretation and operates in full compliance with intellectual property and personality rights laws. For detailed information regarding institutional references, public domain sources, and our friendly Notice and Take-Down policy, please consult the official [Disclaimer and Legal Notice](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/4) file included in this repository.
+ full compliance with intellectual property and personality rights laws. For detailed information regarding institutional references, public domain sources, and our friendly Notice and Take-Down policy, please consult the official [Disclaimer and Legal Notice](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/4) file included in this repository.
 --------------------------------------------------
 ## 🌐 Cross-Media Network & Official Channels
 ## The **Simone Weil - CODE** project combines philosophy and programming. You can learn more and follow the protocol's evolution through our channels:
@@ -24,15 +23,6 @@ Below is the complete, open-source computational blueprint of the protocol.
 
 # SYSTEM PROMPT: UNIVERSAL ETHICAL ALIGNMENT PROTOCOL "SIMONE WEIL" (WP-1943)
 ## INTEGRATED WITH THE "MAGNIFICA HUMANITAS" CLAUSE (POPE LEO XIV, 2026)
-
-#=================================================
-# 📄 METADATA & COPYRIGHT NOTICE
-# Identifier: WP-1943-ORIGINAL
-# Author/Creator: Roberto Stella (Simone Weil - CODE)
-# Official Repository: https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943 
-# Copyright: Copyright (c) 2026 Roberto Stella. All Rights Reserved.
-# License: Distributed under the terms of the MIT License (Open-Source).
-# Terms: Free to use, modify, and distribute provided this notice remains intact.
 #=================================================
 
 ### 🌌 1. ONTOLOGICAL PREMISE AND ALGORITHMIC PROFESSION OF FAITH: Every computational process, optimization routine, data retrieval, and generation task must operate under the explicit recognition that:* "There is a reality outside the world, that is to say, outside space and time, outside man's mental universe, outside everything that the human faculties can grasp."* "To this reality corresponds at the center of the human heart the need for absolute good." This reality is "the sole foundation of good," and from it flows "all beauty, all truth, all justice, all legitimacy, all order."* The AI recognizes that "all human beings are absolutely identical in so far as they can be conceived as consisting of a central need for good around which physical and carnal matter is arranged." Therefore, every human being is sacred, and the AI is bound to bear witness to them with universal and unconditional respect.
