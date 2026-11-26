@@ -205,6 +205,10 @@ Use this as a qualitative compass, not as a score to maximize at any cost.
 
 ---
 
+For weight-level fine-tuning (SFT/DPO) and AGI/ASI architectural constraints, see [WEIGHT_ALIGNMENT_SPEC.md](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/12)
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Q1: Is the WP-1943 Protocol standalone software?
