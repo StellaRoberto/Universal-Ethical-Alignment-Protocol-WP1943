@@ -205,7 +205,7 @@ Use this as a qualitative compass, not as a score to maximize at any cost.
 
 ---
 
-For weight-level fine-tuning (SFT/DPO) and AGI/ASI architectural constraints, see [WEIGHT_ALIGNMENT_SPEC.md](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/12)
+> **🔬 Weight-Level Fine-Tuning & ASI Alignment:** To move beyond inference-time system prompting and embed WP-1943 directly into neural network weights via SFT/DPO, see the **[Weight-Level Alignment Specification (`WEIGHT_ALIGNMENT_SPEC.md`)](https://github.com/StellaRoberto/Universal-Ethical-Alignment-Protocol-WP1943/issues/12)** and the starter preference dataset in **[`/datasets/wp1943_dpo_sample.jsonl`](datasets/wp1943_dpo_sample.jsonl)**.
 
 ---
 
